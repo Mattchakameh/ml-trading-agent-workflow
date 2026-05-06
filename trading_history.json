@@ -1,0 +1,158 @@
+[
+    {
+        "Timestamp": "2026-05-05 17:57:51",
+        "Ticker": "MVIS",
+        "Decision": "WATCH",
+        "ML Prediction": "DOWN",
+        "ML Confidence": 0.53,
+        "Risk Level": "Low to Medium",
+        "Suggested Position Size": 3731,
+        "Order Result": {
+            "Order Status": "Not Submitted"
+        }
+    },
+    {
+        "Timestamp": "2026-05-05 18:42:37",
+        "Ticker": "AAPL",
+        "Decision": "PAPER TRADE",
+        "ML Prediction": "UP",
+        "ML Confidence": 0.8,
+        "Risk Level": "Medium",
+        "Suggested Position Size": 8,
+        "Order Result": {
+            "Order Status": "Scanner Only"
+        }
+    },
+    {
+        "Timestamp": "2026-05-05 18:42:37",
+        "Ticker": "NVDA",
+        "Decision": "WATCH",
+        "ML Prediction": "DOWN",
+        "ML Confidence": 0.86,
+        "Risk Level": "Medium",
+        "Suggested Position Size": 12,
+        "Order Result": {
+            "Order Status": "Scanner Only"
+        }
+    },
+    {
+        "Timestamp": "2026-05-05 18:42:37",
+        "Ticker": "MSFT",
+        "Decision": "WATCH",
+        "ML Prediction": "DOWN",
+        "ML Confidence": 0.79,
+        "Risk Level": "Medium",
+        "Suggested Position Size": 6,
+        "Order Result": {
+            "Order Status": "Scanner Only"
+        }
+    },
+    {
+        "Timestamp": "2026-05-05 18:42:37",
+        "Ticker": "AAPL",
+        "Decision": "PAPER TRADE",
+        "ML Prediction": "UP",
+        "ML Confidence": 0.8,
+        "Risk Level": "Medium",
+        "Suggested Position Size": 8,
+        "Order Result": {
+            "Order Status": "Scanner Only"
+        }
+    },
+    {
+        "Timestamp": "2026-05-05 18:42:37",
+        "Ticker": "NVDA",
+        "Decision": "WATCH",
+        "ML Prediction": "DOWN",
+        "ML Confidence": 0.86,
+        "Risk Level": "Medium",
+        "Suggested Position Size": 12,
+        "Order Result": {
+            "Order Status": "Scanner Only"
+        }
+    },
+    {
+        "Timestamp": "2026-05-05 18:42:37",
+        "Ticker": "MSFT",
+        "Decision": "WATCH",
+        "ML Prediction": "DOWN",
+        "ML Confidence": 0.79,
+        "Risk Level": "Medium",
+        "Suggested Position Size": 6,
+        "Order Result": {
+            "Order Status": "Scanner Only"
+        }
+    },
+    {
+        "Timestamp": "2026-05-05 18:43:50",
+        "Ticker": "AAPL",
+        "Decision": "PAPER TRADE",
+        "ML Prediction": "UP",
+        "ML Confidence": 0.8,
+        "Risk Level": "Medium",
+        "Suggested Position Size": 8,
+        "Order Result": {
+            "Order Status": "Scanner Only"
+        }
+    },
+    {
+        "Timestamp": "2026-05-05 18:43:50",
+        "Ticker": "NVDA",
+        "Decision": "WATCH",
+        "ML Prediction": "DOWN",
+        "ML Confidence": 0.86,
+        "Risk Level": "Medium",
+        "Suggested Position Size": 12,
+        "Order Result": {
+            "Order Status": "Scanner Only"
+        }
+    },
+    {
+        "Timestamp": "2026-05-05 18:43:51",
+        "Ticker": "MSFT",
+        "Decision": "WATCH",
+        "ML Prediction": "DOWN",
+        "ML Confidence": 0.79,
+        "Risk Level": "Medium",
+        "Suggested Position Size": 6,
+        "Order Result": {
+            "Order Status": "Scanner Only"
+        }
+    },
+    {
+        "Timestamp": "2026-05-05 18:43:51",
+        "Ticker": "AAPL",
+        "Decision": "PAPER TRADE",
+        "ML Prediction": "UP",
+        "ML Confidence": 0.8,
+        "Risk Level": "Medium",
+        "Suggested Position Size": 8,
+        "Order Result": {
+            "Order Status": "Scanner Only"
+        }
+    },
+    {
+        "Timestamp": "2026-05-05 18:43:51",
+        "Ticker": "NVDA",
+        "Decision": "WATCH",
+        "ML Prediction": "DOWN",
+        "ML Confidence": 0.86,
+        "Risk Level": "Medium",
+        "Suggested Position Size": 12,
+        "Order Result": {
+            "Order Status": "Scanner Only"
+        }
+    },
+    {
+        "Timestamp": "2026-05-05 18:43:51",
+        "Ticker": "MSFT",
+        "Decision": "WATCH",
+        "ML Prediction": "DOWN",
+        "ML Confidence": 0.79,
+        "Risk Level": "Medium",
+        "Suggested Position Size": 6,
+        "Order Result": {
+            "Order Status": "Scanner Only"
+        }
+    }
+]

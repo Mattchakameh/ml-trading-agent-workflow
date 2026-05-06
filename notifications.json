@@ -1,0 +1,12 @@
+[
+    {
+        "Timestamp": "2026-05-06 10:56:44",
+        "Level": "TRADE_ALERT",
+        "Message": "Best trade opportunity found: AAPL with score 89.0. Decision: PAPER TRADE."
+    },
+    {
+        "Timestamp": "2026-05-06 10:56:44",
+        "Level": "INFO",
+        "Message": "AAPL position checked. Exit decision: HOLD."
+    }
+]
