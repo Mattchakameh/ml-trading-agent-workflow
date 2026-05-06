@@ -1,0 +1,66 @@
+{
+    "Ticker": "MVIS",
+    "Indicators": {
+        "Latest Close": 0.67,
+        "MA20": 0.65,
+        "MA50": 0.66,
+        "RSI": 48.41
+    },
+    "MACD": {
+        "MACD": 0.0,
+        "MACD Signal": -0.0,
+        "MACD Trend": "Bullish",
+        "MACD Reason": "MACD is above the signal line, suggesting positive momentum."
+    },
+    "Signal": {
+        "Signal": "HOLD / WATCH",
+        "Reason": "Indicators are mixed, so it is better to wait for confirmation."
+    },
+    "Risk": {
+        "Risk Level": "Low to Medium",
+        "Risk Reason": "The technical conditions are acceptable, but market risk still exists.",
+        "Max Position Recommendation": "Small position only / paper trade first",
+        "Stop Loss Guidance": "Use a predefined stop loss before entering any trade"
+    },
+    "Sentiment": {
+        "Sentiment": "Neutral",
+        "Sentiment Reason": "No strong directional sentiment detected recently for MVIS."
+    },
+    "ML Prediction": {
+        "Prediction": "DOWN",
+        "Confidence": 0.53
+    },
+    "ML Model Accuracy": 1.0,
+    "Decision": {
+        "Final Decision": "WATCH",
+        "Decision Reason": "The setup is mixed or ML confidence is not strong enough.",
+        "ML Prediction Used": "DOWN",
+        "ML Confidence": 0.53
+    },
+    "Portfolio": {
+        "Account Size": 10000,
+        "Risk Per Trade (%)": 1,
+        "Maximum Risk Amount": 100.0,
+        "Capital Management Rule": "Never risk more than predefined amount per trade"
+    },
+    "Position Sizing": {
+        "Entry Price": 0.67,
+        "Stop Loss Price": 0.64,
+        "Stop Loss (%)": 4,
+        "Risk Per Share": 0.03,
+        "Max Risk Amount": 100.0,
+        "Suggested Position Size": 3731
+    },
+    "Exit Strategy": {
+        "Entry Price": 0.67,
+        "Stop Loss Price": 0.64,
+        "Take Profit Price": 0.72,
+        "Risk/Reward Ratio": "1:2.0",
+        "Exit Rule": "Exit if stop loss or take profit level is reached"
+    },
+    "Paper Trade": {
+        "Paper Trade Status": "Not Created",
+        "Reason": "Final decision is not PAPER TRADE."
+    },
+    "Trading Mode": "Analysis + Paper Trading Only"
+}

@@ -1,0 +1,75 @@
+{
+    "Ticker": "AAPL",
+    "Indicators": {
+        "Latest Close": 284.18,
+        "MA20": 268.79,
+        "MA50": 261.82,
+        "RSI": 65.59
+    },
+    "MACD": {
+        "MACD": 5.12,
+        "MACD Signal": 3.8,
+        "MACD Trend": "Bullish",
+        "MACD Reason": "MACD is above the signal line, suggesting positive momentum."
+    },
+    "Signal": {
+        "Signal": "BUY WATCHLIST",
+        "Reason": "Price is in an uptrend, RSI is below overbought levels, and MACD confirms bullish momentum."
+    },
+    "Risk": {
+        "Risk Level": "Medium",
+        "Risk Reason": "RSI is getting close to overbought levels, so the trade should be monitored carefully.",
+        "Max Position Recommendation": "Small position only / paper trade first",
+        "Stop Loss Guidance": "Use a predefined stop loss before entering any trade"
+    },
+    "Sentiment": {
+        "Sentiment": "Positive",
+        "Sentiment Reason": "Recent market sentiment around AAPL appears relatively strong with positive momentum."
+    },
+    "ML Prediction": {
+        "Prediction": "UP",
+        "Confidence": 0.8
+    },
+    "ML Model Accuracy": 0.33,
+    "Decision": {
+        "Final Decision": "PAPER TRADE",
+        "Decision Reason": "Signal, risk, sentiment, MACD, and ML prediction are aligned positively.",
+        "ML Prediction Used": "UP",
+        "ML Confidence": 0.8
+    },
+    "Portfolio": {
+        "Account Size": 10000,
+        "Risk Per Trade (%)": 1,
+        "Maximum Risk Amount": 100.0,
+        "Capital Management Rule": "Never risk more than predefined amount per trade"
+    },
+    "Position Sizing": {
+        "Entry Price": 284.18,
+        "Stop Loss Price": 272.81,
+        "Stop Loss (%)": 4,
+        "Risk Per Share": 11.37,
+        "Max Risk Amount": 100.0,
+        "Suggested Position Size": 8
+    },
+    "Exit Strategy": {
+        "Entry Price": 284.18,
+        "Stop Loss Price": 272.81,
+        "Take Profit Price": 306.91,
+        "Risk/Reward Ratio": "1:2.0",
+        "Exit Rule": "Exit if stop loss or take profit level is reached"
+    },
+    "Paper Trade": {
+        "Paper Trade Status": "Created",
+        "Trade": {
+            "Ticker": "AAPL",
+            "Entry Price": 284.18,
+            "Signal": "BUY WATCHLIST",
+            "Risk Level": "Medium",
+            "Sentiment": "Positive",
+            "Decision": "PAPER TRADE",
+            "Trade Type": "Simulated / Paper Trade",
+            "Timestamp": "2026-05-05 17:11:04"
+        }
+    },
+    "Trading Mode": "Analysis + Paper Trading Only"
+}

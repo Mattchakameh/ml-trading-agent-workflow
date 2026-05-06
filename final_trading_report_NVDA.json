@@ -1,0 +1,66 @@
+{
+    "Ticker": "NVDA",
+    "Indicators": {
+        "Latest Close": 196.5,
+        "MA20": 199.19,
+        "MA50": 187.42,
+        "RSI": 47.58
+    },
+    "MACD": {
+        "MACD": 4.67,
+        "MACD Signal": 5.87,
+        "MACD Trend": "Bearish",
+        "MACD Reason": "MACD is below the signal line, suggesting weaker momentum."
+    },
+    "Signal": {
+        "Signal": "HOLD / WATCH",
+        "Reason": "Price trend may be acceptable, but MACD shows weaker momentum."
+    },
+    "Risk": {
+        "Risk Level": "Medium",
+        "Risk Reason": "MACD shows weaker momentum, so the setup carries additional risk.",
+        "Max Position Recommendation": "Small position only / paper trade first",
+        "Stop Loss Guidance": "Use a predefined stop loss before entering any trade"
+    },
+    "Sentiment": {
+        "Sentiment": "Positive",
+        "Sentiment Reason": "Recent market sentiment around NVDA appears relatively strong with positive momentum."
+    },
+    "ML Prediction": {
+        "Prediction": "DOWN",
+        "Confidence": 0.86
+    },
+    "ML Model Accuracy": 0.67,
+    "Decision": {
+        "Final Decision": "WATCH",
+        "Decision Reason": "ML predicts downside with meaningful confidence, so monitor instead of trade.",
+        "ML Prediction Used": "DOWN",
+        "ML Confidence": 0.86
+    },
+    "Portfolio": {
+        "Account Size": 10000,
+        "Risk Per Trade (%)": 1,
+        "Maximum Risk Amount": 100.0,
+        "Capital Management Rule": "Never risk more than predefined amount per trade"
+    },
+    "Position Sizing": {
+        "Entry Price": 196.5,
+        "Stop Loss Price": 188.64,
+        "Stop Loss (%)": 4,
+        "Risk Per Share": 7.86,
+        "Max Risk Amount": 100.0,
+        "Suggested Position Size": 12
+    },
+    "Exit Strategy": {
+        "Entry Price": 196.5,
+        "Stop Loss Price": 188.64,
+        "Take Profit Price": 212.22,
+        "Risk/Reward Ratio": "1:2.0",
+        "Exit Rule": "Exit if stop loss or take profit level is reached"
+    },
+    "Paper Trade": {
+        "Paper Trade Status": "Not Created",
+        "Reason": "Final decision is not PAPER TRADE."
+    },
+    "Trading Mode": "Analysis + Paper Trading Only"
+}
